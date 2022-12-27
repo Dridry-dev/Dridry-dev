@@ -9,7 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/adrien.lalut) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrien-lalut/) 
 
 ## 👨🏼‍💻 Project:
-  [➡️➡️➡️  Quest-Buddy  ⬅️⬅️⬅️](https://www.facebook.com/adrien.lalut)<br>
+  [➡️➡️➡️  Quest-Buddy  ⬅️⬅️⬅️]([https://www.facebook.com/adrien.lalut](https://pacific-hollows-51027.herokuapp.com/))<br>
   Pour le moment, la seule quête complètement fonctionnelle est dans la categorie "Sport" et s'appelle "Push-up".<br>
   La site est fait pour le mobile, le responsive pour écran plus grand est prévu mais n'est pas encore en place, merci d'avance pour votre indulgence!<br>
   
