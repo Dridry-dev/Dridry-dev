@@ -10,6 +10,7 @@
 
 ## 👨🏼‍💻 Project:
   [➡️➡️➡️  Quest-Buddy  ⬅️⬅️⬅️](https://pacific-hollows-51027.herokuapp.com/)<br>
+  Quest-buddy est mon projet de fin de formation au Wagon. C'est un assistant virtuel pour accomapgner la montée en compétence de maière autonome. Proche du. "livre de quête" des jeux vidéos, il propose au joueur de réaliser des quêtes en tout genre pour le faire progresser dans le jeux, et dans la vraie vie.
   Pour le moment, la seule quête complètement fonctionnelle est dans la categorie "Sport" et s'appelle "Push-up".<br>
   La site est fait pour le mobile, le responsive pour écran plus grand est prévu mais n'est pas encore en place, merci d'avance pour votre indulgence!<br>
   
