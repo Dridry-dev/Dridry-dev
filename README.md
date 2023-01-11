@@ -2,7 +2,7 @@
 <h1> Adrien Lalut </h1>
 <h2>Product Manager <br></h2>
 # 💫 About Me:
- 🚀 I'm currently looking for a job as Full-Stack Developer or Product manager,<br>🧬 I'm looking to work on passionate and humain focused projects with a small team (3 to 25 people), <br>👨🏼‍💻 I'm currently learning Ruby on Rails, HTML, CSS and JS,<br>💬 You can ask me about anything, <br>⚡️ Fun Fact : You probably already met one of my dopplegangers, we are many and all around the world !
+ 🚀 I'm currently looking for a job as Full-Stack Developer or Product manager,<br>🧬 I'm looking to work on passionate and humain focused projects with a humain size team (3 to 50 people), <br>👨🏼‍💻 I'm currently learning Ruby on Rails, HTML, CSS and JS,<br>💬 You can ask me about anything, <br>⚡️ Fun Fact : You probably already met one of my dopplegangers, we are many and all around the world !
 
 
 ## 🌐 Socials:
